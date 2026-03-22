@@ -82,8 +82,9 @@ Ella Vanessa MUGISHA
 
 ---
 
-<img width="383" height="800" alt="image" src="https://github.com/user-attachments/assets/22bb17a6-d33d-4412-a2bc-2db261f56801" />
-<img width="390" height="774" alt="Capture d&#39;écran 2026-03-22 235125" src="https://github.com/user-attachments/assets/3f332b65-9628-4bd2-8e52-1f29cb05757a" />
+<img width="2933" height="621" alt="image" src="https://github.com/user-attachments/assets/22bb17a6-d33d-4412-a2bc-2db261f56801" />
+
+
 <img width="293" height="621" alt="Capture d&#39;écran 2026-03-22 234127" src="https://github.com/user-attachments/assets/2a05f474-de6b-4e13-adfa-95d3ee9b2642" />
 
 
